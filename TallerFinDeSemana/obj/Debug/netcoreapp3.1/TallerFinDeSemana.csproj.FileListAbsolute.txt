@@ -1,0 +1,13 @@
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\bin\Debug\netcoreapp3.1\TallerFinDeSemana.exe
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\bin\Debug\netcoreapp3.1\TallerFinDeSemana.deps.json
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\bin\Debug\netcoreapp3.1\TallerFinDeSemana.runtimeconfig.json
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\bin\Debug\netcoreapp3.1\TallerFinDeSemana.runtimeconfig.dev.json
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\bin\Debug\netcoreapp3.1\TallerFinDeSemana.dll
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\bin\Debug\netcoreapp3.1\TallerFinDeSemana.pdb
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.AssemblyInfoInputs.cache
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.AssemblyInfo.cs
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.csproj.CoreCompileInputs.cache
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.dll
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.pdb
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.genruntimeconfig.cache
+C:\Users\music\source\repos\TallerFinDeSemana\TallerFinDeSemana\obj\Debug\netcoreapp3.1\TallerFinDeSemana.csprojAssemblyReference.cache
